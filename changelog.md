@@ -1,5 +1,5 @@
 Telegram: @custombeta
 -------------------------------------------
-🇺🇲Added wallpapers from: Xiaomi 15 Ultra, Redmi Turbo 4, Redmi Note 14 | 14 Pro, OnePlus 13 | 13R | 12 | 12R | 7 Series, Gemini by @MrFaTech
+🇺🇲Added wallpapers from: Xiaomi 12S Ultra, Poco F5 Pro, Oppo Find X8 Pro | X7 Ultra, Samsung S25 Ultra | S25 | S24 Ultra | S24 | S23 Ultra | S23, HyperOS 1
 
-🇷🇺Добавленны обои от: Xiaomi 15 Ultra, Redmi Turbo 4, Redmi Note 14 | 14 Pro, OnePlus 13 | 13R | 12 | 12R | 7 Series, Gemini by @MrFaTech
+🇷🇺Добавленны обои от: Xiaomi 12S Ultra, Poco F5 Pro, Oppo Find X8 Pro | X7 Ultra, Samsung S25 Ultra | S25 | S24 Ultra | S24 | S23 Ultra | S23, HyperOS 1
