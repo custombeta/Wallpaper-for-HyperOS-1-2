@@ -3,12 +3,23 @@
 Telegram for contact me: @custombeta
 Telegram Channel: @duchamppower
 
+------------------------------------------
+
 🇷🇺Модуль Magisk, который добавит разнообразия вашему устройству, добавив большое количество обоев с разных устройств, установка проста, просто прошейте модуль, перезагрузите, перейдите в «настройки > персонализация > обои».
 
 Telegram для связи со мной: @custombeta
 Telegram канал: @duchamppower
 
-Screenshot | Скриншоты
+------------------------------------------
+```Compatibility | Совместимость```
+
+[•] Magisk
+
+[•] KernelSU
+
+------------------------------------------
+```Screenshot | Скриншоты```
+
 ![Screenshot_2025-02-15-01-23-11-812_com android thememanager-edit](https://github.com/user-attachments/assets/a56a0775-c745-4142-a7ea-441f36b216d5)
 ![Screenshot_2025-02-15-01-22-16-740_com android thememanager-edit](https://github.com/user-attachments/assets/250faf76-a834-4886-bd26-13d01e8df282)
 ![Screenshot_2025-02-15-01-22-09-491_com android thememanager-edit](https://github.com/user-attachments/assets/6085b0e2-3cd1-4fc3-b911-b63d1e8b660f)
