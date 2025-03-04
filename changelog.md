@@ -4,7 +4,7 @@ Telegram: @custombeta
 🇺🇲Added wallpapers from: Xiaomi 15 Ultra
 (full), Nothing OS 3, Google Pixel 9 (xray)
 
-⚙️Added support for kernels thanks to
+⚙️Added support for KernelSU thanks to
 updated customize.sh
 
 ------------------------------------------
