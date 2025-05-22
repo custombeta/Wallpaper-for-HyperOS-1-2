@@ -1,7 +1,22 @@
-Telegram: @custombeta
+Telegram: `@custombeta`
 ------------------------------------------
+🇺🇲 Added wallpapers from the following devices:
+- `Xiaomi 15S Pro`
+- `Xiaomi CIVI 5 Pro`
+- `Redmi Turbo 4 Pro`
+- `Poco F7 Pro | Ultra`
+- `OnePlus 13T`
+- `Vivo X200 Ultra`
 
-🇺🇲Xiaomi 15 wallpaper bugs fixed
+⚙️ Updated installation script to `install.sh`
 
-------------------------------------------
-🇷🇺Исправлены баги с обоями Xiaomi 15
+---------------------------------
+🇷🇺 Добавленны обои со следующих устройств:
+- `Xiaomi 15S Pro`
+- `Xiaomi CIVI 5 Pro`
+- `Redmi Turbo 4 Pro`
+- `Poco F7 Pro | Ultra`
+- `OnePlus 13T`
+- `Vivo X200 Ultra`
+
+⚙️ Изменён скрипт установки на `install.sh`
