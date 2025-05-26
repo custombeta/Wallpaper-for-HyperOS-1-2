@@ -1,14 +1,17 @@
-🇺🇲Magisk module that will add variety to your device by adding a large number of wallpapers from different devices,installation is simple, just flash the module, reboot, go to «Settings > Personalization > Wallpaper > enjoy»
+🇺🇲 Module that will add variety to your device by adding a large number of wallpapers from different devices, (Xiaomi, Redmi, Poco, OnePlus, Vivo, Realme, Apple, Samsung). Installation is simple, just flash the module, reboot, go to «Settings > Personalization > Wallpaper > enjoy»
 
-Telegram for contact me: @custombeta
-Telegram Channel: @duchamppower
+Telegram: `@custombeta`
+
+Telegram Channel: `@duchamppower`
 
 ------------------------------------------
 
-🇷🇺Модуль Magisk, который добавит разнообразия вашему устройству, добавив большое количество обоев с разных устройств, установка проста, просто прошейте модуль, перезагрузите, перейдите в «Настройки > Персонализация > Обои».
+🇷🇺 Модуль, который добавит разнообразия вашему устройству, добавив большое количество обоев с разных устройств,
+(Xiaomi, Redmi, Poco, OnePlus, Vivo, Realme, Apple, Samsung). Установка проста, просто прошейте модуль, перезагрузите, перейдите в «Настройки > Персонализация > Обои».
 
-Telegram для связи со мной: @custombeta
-Telegram канал: @duchamppower
+Telegram: `@custombeta`
+
+Telegram канал: `@duchamppower`
 
 ------------------------------------------
 ```Compatibility | Совместимость```
