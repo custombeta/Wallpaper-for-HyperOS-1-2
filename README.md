@@ -1,11 +1,11 @@
-🇺🇲Magisk module that will add variety to your device by adding a large number of wallpapers from different devices,installation is simple, just flash the module, reboot, go to «Settings> personalization > wallpaper > enjoy»
+🇺🇲Magisk module that will add variety to your device by adding a large number of wallpapers from different devices,installation is simple, just flash the module, reboot, go to «Settings > Personalization > Wallpaper > enjoy»
 
 Telegram for contact me: @custombeta
 Telegram Channel: @duchamppower
 
 ------------------------------------------
 
-🇷🇺Модуль Magisk, который добавит разнообразия вашему устройству, добавив большое количество обоев с разных устройств, установка проста, просто прошейте модуль, перезагрузите, перейдите в «настройки > персонализация > обои».
+🇷🇺Модуль Magisk, который добавит разнообразия вашему устройству, добавив большое количество обоев с разных устройств, установка проста, просто прошейте модуль, перезагрузите, перейдите в «Настройки > Персонализация > Обои».
 
 Telegram для связи со мной: @custombeta
 Telegram канал: @duchamppower
@@ -13,9 +13,11 @@ Telegram канал: @duchamppower
 ------------------------------------------
 ```Compatibility | Совместимость```
 
-[•] Magisk
+- `Magisk`
 
-[•] KernelSU
+- `KernelSU` | `KernelSU Next`
+
+- `Other`
 
 ------------------------------------------
 ```Screenshot | Скриншоты```
