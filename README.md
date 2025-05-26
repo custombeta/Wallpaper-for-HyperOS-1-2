@@ -1,4 +1,5 @@
 ## Языки
+Русский | [English](https://github.com/custombeta/Wallpaper-for-HyperOS-1-2/blob/main/README-US.md)
 
 `Wallpaper for HyperOS 1 | 2` - модуль, который добавит разнообразия вашему устройству, добавив большое количество обоев с разных устройств,
 (Xiaomi, Redmi, Poco, OnePlus, Vivo, Realme, Apple, Samsung). Установка проста, просто прошейте модуль, перезагрузите, перейдите в «Настройки > Персонализация > Обои».
