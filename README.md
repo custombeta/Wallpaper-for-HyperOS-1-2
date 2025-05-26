@@ -1,12 +1,11 @@
-Модуль, который добавит разнообразия вашему устройству, добавив большое количество обоев с разных устройств,
+`Wallpaper for HyperOS 1 | 2` - модуль, который добавит разнообразия вашему устройству, добавив большое количество обоев с разных устройств,
 (Xiaomi, Redmi, Poco, OnePlus, Vivo, Realme, Apple, Samsung). Установка проста, просто прошейте модуль, перезагрузите, перейдите в «Настройки > Персонализация > Обои».
 
 Telegram: `@custombeta`
 
 Telegram канал: `@duchamppower`
 
-------------------------------------------
-```Совместимость```
+## Совместимость
 
 - `Magisk`
 
@@ -14,9 +13,7 @@ Telegram канал: `@duchamppower`
 
 - `Остальные`
 
-------------------------------------------
-```Screenshot | Скриншоты```
-
+## Скриншоты
 ![Screenshot_2025-02-15-01-23-11-812_com android thememanager-edit](https://github.com/user-attachments/assets/a56a0775-c745-4142-a7ea-441f36b216d5)
 ![Screenshot_2025-02-15-01-22-16-740_com android thememanager-edit](https://github.com/user-attachments/assets/250faf76-a834-4886-bd26-13d01e8df282)
 ![Screenshot_2025-02-15-01-22-09-491_com android thememanager-edit](https://github.com/user-attachments/assets/6085b0e2-3cd1-4fc3-b911-b63d1e8b660f)
