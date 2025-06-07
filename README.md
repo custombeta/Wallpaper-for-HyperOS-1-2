@@ -1,13 +1,13 @@
-# Wallpaper for HyperOS
+## Wallpaper for HyperOS
 <img src="/assets/wallpaper-hyperos-logo.png" style="width: 170px;" alt="logo">
 
 [![Latest release](https://img.shields.io/github/v/release/custombeta/Wallpaper-for-HyperOS-1-2?label=Релиз&color=red&logo=github)](https://github.com/custombeta/Wallpaper-for-HyperOS-1-2/releases/latest)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/duchamppower)
 
 Модуль, который добавит разнообразия вашему устройству, добавив большое количество обоев с разных устройств,
-(Xiaomi, Redmi, Poco, OnePlus, Vivo, Realme, Apple, Samsung). Установка проста, просто прошейте модуль, перезагрузите, перейдите в «Настройки > Персонализация > Обои».
+(Xiaomi, Redmi, Poco, OnePlus, Vivo, Realme, Apple, Samsung).
 
-# Совместимость
+## Совместимость
 - `Magisk`
 - `KernelSU`
 - `KernelSU Next`
