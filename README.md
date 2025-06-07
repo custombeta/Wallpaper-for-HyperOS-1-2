@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/duchamppower)
 
 Модуль, который добавит разнообразия вашему устройству, добавив большое количество обоев с разных устройств,
-(Xiaomi, Redmi, Poco, OnePlus, Vivo, Realme, Apple, Samsung).
+(Xiaomi, Redmi, Poco, Vivo, OnePlus, Realme, Apple, Samsung).
 
 ## Совместимость
 - `Magisk`
