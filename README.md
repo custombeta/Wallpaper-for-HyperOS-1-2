@@ -1,5 +1,5 @@
-## Wallpaper for HyperOS
-<img src="/assets/wallpaper-hyperos-logo.png" style="width: 170px;" alt="logo">
+## Wallpaper cataloge
+<img src="/assets/wallpaper-cataloge-logo.png" style="width: 170px;" alt="logo">
 
 [![Latest release](https://img.shields.io/github/v/release/custombeta/Wallpaper-for-HyperOS-1-2?label=Релиз&color=red&logo=github)](https://github.com/custombeta/Wallpaper-for-HyperOS-1-2/releases/latest)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/duchamppower)
