@@ -3,7 +3,7 @@ Telegram: `@custombeta`
 🇺🇲 Added wallpapers from the following devices:
 - `Dynamic wallpaper from Xiaomi 17 Pro`
 - `Xiaomi 17 Series`
-- `Redmi K90 Pro Max`
+- `Redmi K90 Series`
 - `OnePlus 15`
 - `Oppo Find X9 Pro`
 - `Nothing Phone 3a Lite`
@@ -15,7 +15,7 @@ Telegram: `@custombeta`
 🇷🇺 Добавленны обои со следующих устройств:
 - `Динамически обои с Xiaomi 17 Pro`
 - `Серия Xiaomi 17` 
-- `Redmi K90 Pro Max`
+- `Серия Redmi K90`
 - `OnePlus 15`
 - `Oppo Find X9 Pro`
 - `Nothing Phone 3a Lite`
