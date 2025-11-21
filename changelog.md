@@ -1,6 +1,23 @@
 Telegram: `@custombeta`
 ------------------------------------------
-🇺🇲 Bug fix
-
+🇺🇲 Added wallpapers from the following devices:
+- `Dynamic wallpaper from Xiaomi 17 Pro`
+- `Xiaomi 17 Series`
+- `Redmi K90 Pro Max`
+- `OnePlus 15`
+- `Oppo Find X9 Pro`
+- `Nothing Phone 3a Lite`
+- `Iphone 17 Pro | 17 Pro Max`
+- `Iphone 17`
+- `RealmeUI 7`
 ---------------------------------
-🇷🇺 Фикс багов
+🇷🇺 Добавлены обои со следующих устройств:
+- `Динамически обои с Xiaomi 17 Pro`
+- `Xiaomi 17 Series`
+- `Redmi K90 Pro Max`
+- `OnePlus 15`
+- `Oppo Find X9 Pro`
+- `Nothing Phone 3a Lite`
+- `Iphone 17 Pro | 17 Pro Max`
+- `Iphone 17`
+- `RealmeUI 7`
